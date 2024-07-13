@@ -1,6 +1,7 @@
 # Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning
 
-<div align="center">   <a href="https://arxiv.org/abs/2405.16996">     <img src="https://img.shields.io/badge/arXiv-2405.16996-b31b1b" alt="arXiv">   </a>   <a href="https://openreview.net/forum?id=lgZf628A2G&referrer=%5Bthe%20profile%20of%20Zihua%20Zhao%5D(%2Fprofile%3Fid%3D~Zihua_Zhao3)">     <img src="https://img.shields.io/badge/OpenReview-lgZf628A2G-blue" alt="OpenReview">   </a>   <a href="https://github.com/MediaBrain-SJTU/GSC">     <img src="https://img.shields.io/badge/GitHub-GSC-brightgreen" alt="GitHub">   </a> </div>
+<div align="center">   <a href="https://arxiv.org/abs/2405.16996">     <img src="https://img.shields.io/badge/arXiv-2405.16996-b31b1b" alt="arXiv">   </a>   <a href="https://openreview.net/forum?id=lgZf628A2G&referrer=%5Bthe%20profile%20of%20Zihua%20Zhao%5D(%2Fprofile%3Fid%3D~Zihua_Zhao3)">     <img src="https://img.shields.io/badge/OpenReview-CVPR24-blue" alt="OpenReview">   </a>  
+  <a href="https://github.com/MediaBrain-SJTU/GSC">     <img src="https://img.shields.io/badge/GitHub-GSC-brightgreen" alt="GitHub">   </a> </div>
 
 by Zihua Zhao, Mengzi Chen, Tianjie Dai, Jiangchao Yao, Bo Han, Ya Zhang, Yanfeng Wang at Cooperative Medianet Innovation Center, Shanghai Jiao Tong University, Shanghai Artificial Intelligence Laboratory, Hong Kong Baptist University
 
